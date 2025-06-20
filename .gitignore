@@ -1,0 +1,9 @@
+# virtualBox files
+*.vbox
+*.vbox-prev
+*.vbox-tmp
+*.vdi
+*.vmdk
+*.hdd
+logs/
+snapshots/
